@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Yugenzariah/RESTful_API_Practice/issues"
   },
-  "homepage": "https://github.com/Yugenzariah/RESTful_API_Practice#readme"
+  "homepage": "https://github.com/Yugenzariah/RESTful_API_Practice#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
 }
